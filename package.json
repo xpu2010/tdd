@@ -1,0 +1,28 @@
+{
+  "name": "nothing",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "hello.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mocha": "^3.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xpu2010/tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xpu2010/tdd/issues"
+  },
+  "homepage": "https://github.com/xpu2010/tdd#readme"
+}
